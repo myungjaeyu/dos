@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/myungjaeyu/dos/issues"
   },
-  "homepage": "https://github.com/myungjaeyu/dos#readme"
+  "homepage": "https://github.com/myungjaeyu/dos#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
